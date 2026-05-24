@@ -1,5 +1,6 @@
 import java.util.Scanner;
 public class Tr1 {
+    //PRUEBA DE ACTUALIZACION GITHUB
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Ingrese la base y la altura");
